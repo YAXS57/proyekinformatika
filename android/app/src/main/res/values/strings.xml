@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ANGKRINGAN 77</string>
+    <string name="title_activity_main">ANGKRINGAN 77</string>
+    <string name="package_name">com.A77.angkringan</string>
+    <string name="custom_url_scheme">com.A77.angkringan</string>
+</resources>
